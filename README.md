@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmvdev&label=Profile%20views&color=0e75b6&style=flat" alt="ahmvdev" /> </p>
 
-- currently learning **Burp-Suite and Three.js**
+- currently learning **MERN Stack & Burp-Suite**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
