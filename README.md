@@ -1,2 +1,3 @@
 
-![](https://cdnb.artstation.com/p/assets/images/images/017/432/359/original/alex-ray-efo9odi.gif?1555967938)
+
+![](https://github.com/user-attachments/assets/2db4c570-635b-41ad-ad5c-ffa6b9fcb532)
